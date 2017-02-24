@@ -13,5 +13,5 @@
 	define("SQL_MANAGER_TABLE_NAME","tb_manager");
 	define("SQL_INFO_TABLE_NAME","tb_info");
 	define("SQL_CONFIG_TABLE_NAME","tb_config");
-	define("SCHOOL_ID","3144001376");
+	define("SCHOOL_ID","0000000006");
 ?>
