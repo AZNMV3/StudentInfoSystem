@@ -1,0 +1,17 @@
+<?php
+	define("SQL_HOST_NAME","localhost");
+	define("SQL_USER_NAME","xywuwcxr_student");
+	define("SQL_PASSWORD","123");
+	define("SQL_READ_USER_NAME","xywuwcxr_student");
+	define("SQL_READ_USER_PASSWORD","READ_ONLY");
+	define("SQL_WRITE_USER_NAME","usr_WRITE");
+	define("SQL_WRITE_USER_PASSWORD","WRITE_ONLY");
+	define("SQL_RW_USER_NAME","usr_RW");
+	define("SQL_RW_USER_PASSWORD","READANDWRITE");
+	define("SQL_DATABASE","xywuwcxr_student");
+	define("SQL_USER_TABLE_NAME","tb_user");
+	define("SQL_MANAGER_TABLE_NAME","tb_manager");
+	define("SQL_INFO_TABLE_NAME","tb_info");
+	define("SQL_CONFIG_TABLE_NAME","tb_config");
+	define("SCHOOL_ID","3144001376");
+?>
